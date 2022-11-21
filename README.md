@@ -9,4 +9,4 @@
 ![](https://github.com/sanjayd89/Energy_Demand_Prediction/blob/main/images/Image%20(7).JPG)
 
 ## Note:
-- This dataset was part of Analytics Vidya Job-A-Thon November, 2022
+- This dataset was part of Analytics Vidhya Job-A-Thon November, 2022
